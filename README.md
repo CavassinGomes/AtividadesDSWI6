@@ -61,11 +61,6 @@ Before running any project, ensure you have the following installed:
    ```
 3. Run the project as per the instructions in each folder's README.md file.
 
-## 🤝 Contributions
-Feel free to fork this repository and submit pull requests with improvements, additional exercises, or better documentation!
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 🚀 **Happy Coding!** 🖥️🌐
