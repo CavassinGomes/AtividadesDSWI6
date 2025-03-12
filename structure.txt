@@ -1,0 +1,6 @@
+.
+├── Atividade de Participação 1
+│   └── Atividades1.js
+└── structure.txt
+
+1 directory, 2 files
