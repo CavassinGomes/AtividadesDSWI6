@@ -31,10 +31,23 @@ Then, copy the contents of `structure.txt` into this section.
 
 ```
 📁 DSWEB6/
-  ├── 📁Atividade de Participação 1
-  │   └── Atividades1.js
-  └── structure.txt
-  └── README.md
+   .
+   ├── 📁Atividade de Participação 1
+   │   └── Atividades1.js
+   ├── 📁Atividade de Participação 2
+   │   ├── Atividade10.js
+   │   ├── Atividade11.js
+   │   ├── Atividade1.js
+   │   ├── Atividade2.js
+   │   ├── Atividade3.js
+   │   ├── Atividade4.js
+   │   ├── Atividade5.js
+   │   ├── Atividade6.js
+   │   ├── Atividade7.js
+   │   ├── Atividade8.js
+   │   └── Atividade9.js
+   ├── README.md
+   └── structure.txt
 ```
 
 ## 🎯 Objectives
