@@ -46,6 +46,33 @@ Then, copy the contents of `structure.txt` into this section.
    │   ├── Atividade7.js
    │   ├── Atividade8.js
    │   └── Atividade9.js
+   ├── 📁Atividade de Participação 3
+   │   ├── 📁Atividade 1
+   │   │   ├── index.js
+   │   │   └── stats.js
+   │   ├── 📁Atividade 2
+   │   │   ├── package.json
+   │   │   ├── package-lock.json
+   │   │   ├── server.js
+   │   │   └── user.js
+   │   ├── 📁Atividade 3
+   │   │   ├── conversor.js
+   │   │   └── main.js
+   │   ├── 📁Atividade 4
+   │   │   ├── arquivo.txt
+   │   │   ├── deumasovez.js
+   │   │   └── emfluxo.js
+   │   ├── 📁Atividade 5
+   │   │   ├── arquivo.txt
+   │   │   ├── deumasovez.js
+   │   │   ├── emfluxo.js
+   │   │   └── main.js
+   │   ├── 📁Atividade 6
+   │   │   ├── arquivo.txt
+   │   │   └── main.js
+   │   └── 📁Atividade 7
+   │       ├── logger.js
+   │       └── main.js 
    ├── README.md
    └── structure.txt
 ```
