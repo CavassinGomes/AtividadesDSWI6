@@ -40,7 +40,14 @@
 │   └── Atividade 7
 │       ├── logger.js
 │       └── main.js
+├── Atividade de Participação 4
+│   ├── Atividade1.js
+│   ├── Atividade2.js
+│   ├── Atividade3.js
+│   ├── Atividade4.js
+│   ├── Atividade5.js
+│   └── Atividade6.js
 ├── README.md
 └── structure.txt
 
-10 directories, 33 files
+11 directories, 39 files

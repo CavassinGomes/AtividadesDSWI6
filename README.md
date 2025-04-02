@@ -73,6 +73,13 @@ Then, copy the contents of `structure.txt` into this section.
    │   └── 📁Atividade 7
    │       ├── logger.js
    │       └── main.js 
+   ├── 📁Atividade de Participação 4
+   │   ├── Atividade1.js
+   │   ├── Atividade2.js
+   │   ├── Atividade3.js
+   │   ├── Atividade4.js
+   │   ├── Atividade5.js
+   │   └── Atividade6.js
    ├── README.md
    └── structure.txt
 ```
