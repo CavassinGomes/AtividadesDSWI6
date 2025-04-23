@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>CRUD com Fetch e JSONPlaceholder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>CRUD com Fetch e JSONPlaceholder</h1>
+
+    <div class="controls">
+      <button onclick="getAllPosts()">GET - Todos os Posts</button>
+      <input type="number" id="postId" placeholder="ID do Post" />
+      <button onclick="getPostById()">GET - Post por ID</button>
+      <button onclick="createPost()">POST - Criar Post</button>
+      <button onclick="updatePost()">PUT - Atualizar Post (ID 1)</button>
+      <button onclick="deletePost()">DELETE - Deletar Post (ID 1)</button>
+    </div>
+
+    <pre id="output"></pre>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

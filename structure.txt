@@ -1,53 +1,58 @@
-.
-├── Atividade de Participação 1
-│   └── Atividades1.js
-├── Atividade de Participação 2
-│   ├── Atividade10.js
-│   ├── Atividade11.js
-│   ├── Atividade1.js
-│   ├── Atividade2.js
-│   ├── Atividade3.js
-│   ├── Atividade4.js
-│   ├── Atividade5.js
-│   ├── Atividade6.js
-│   ├── Atividade7.js
-│   ├── Atividade8.js
-│   └── Atividade9.js
-├── Atividade de Participação 3
-│   ├── Atividade 1
-│   │   ├── index.js
-│   │   └── stats.js
-│   ├── Atividade 2
-│   │   ├── package.json
-│   │   ├── package-lock.json
-│   │   ├── server.js
-│   │   └── user.js
-│   ├── Atividade 3
-│   │   ├── conversor.js
-│   │   └── main.js
-│   ├── Atividade 4
-│   │   ├── arquivo.txt
-│   │   ├── deumasovez.js
-│   │   └── emfluxo.js
-│   ├── Atividade 5
-│   │   ├── arquivo.txt
-│   │   ├── deumasovez.js
-│   │   ├── emfluxo.js
-│   │   └── main.js
-│   ├── Atividade 6
-│   │   ├── arquivo.txt
-│   │   └── main.js
-│   └── Atividade 7
-│       ├── logger.js
-│       └── main.js
-├── Atividade de Participação 4
-│   ├── Atividade1.js
-│   ├── Atividade2.js
-│   ├── Atividade3.js
-│   ├── Atividade4.js
-│   ├── Atividade5.js
-│   └── Atividade6.js
-├── README.md
-└── structure.txt
+./
+├── 📁 Atividade de Participação 1/
+│   └── 📄 Atividades1.js
+├── 📁 Atividade de Participação 2/
+│   ├── 📄 Atividade10.js
+│   ├── 📄 Atividade11.js
+│   ├── 📄 Atividade1.js
+│   ├── 📄 Atividade2.js
+│   ├── 📄 Atividade3.js
+│   ├── 📄 Atividade4.js
+│   ├── 📄 Atividade5.js
+│   ├── 📄 Atividade6.js
+│   ├── 📄 Atividade7.js
+│   ├── 📄 Atividade8.js
+│   └── 📄 Atividade9.js
+├── 📁 Atividade de Participação 3/
+│   ├── 📁 Atividade 1/
+│   │   ├── 📄 index.js
+│   │   └── 📄 stats.js
+│   ├── 📁 Atividade 2/
+│   │   ├── 📄 package.json
+│   │   ├── 📄 package-lock.json
+│   │   ├── 📄 server.js
+│   │   └── 📄 user.js
+│   ├── 📁 Atividade 3/
+│   │   ├── 📄 conversor.js
+│   │   └── 📄 main.js
+│   ├── 📁 Atividade 4/
+│   │   ├── 📄 arquivo.txt
+│   │   ├── 📄 deumasovez.js
+│   │   └── 📄 emfluxo.js
+│   ├── 📁 Atividade 5/
+│   │   ├── 📄 arquivo.txt
+│   │   ├── 📄 deumasovez.js
+│   │   ├── 📄 emfluxo.js
+│   │   └── 📄 main.js
+│   ├── 📁 Atividade 6/
+│   │   ├── 📄 arquivo.txt
+│   │   └── 📄 main.js
+│   └── 📁 Atividade 7/
+│       ├── 📄 logger.js
+│       └── 📄 main.js
+├── 📁 Atividade de Participação 4/
+│   ├── 📄 Atividade1.js
+│   ├── 📄 Atividade2.js
+│   ├── 📄 Atividade3.js
+│   ├── 📄 Atividade4.js
+│   ├── 📄 Atividade5.js
+│   └── 📄 Atividade6.js
+├── 📁 Atividade de Participação 6/
+│   ├── 📄 index.html
+│   ├── 📄 script.js
+│   └── 📄 style.css
+├── 📄 gerar-arvore.sh*
+├── 📄 README.md
+└── 📄 structure.txt
 
-11 directories, 39 files
+12 directories, 43 files
